@@ -1,0 +1,62 @@
+header ul li {
+  list-style: none;
+  display: inline;
+  float:right;
+  padding-left: 50px;
+  padding-top:50px;
+  font-family: Arial, sans-serif;
+  font-weight: 500;
+  font-size:20px;
+}
+header ul li a {
+  text-decoration: none;
+  color:white;
+}
+header ul li a:hover {
+  color:pink;
+  transition: 0.3s;
+}
+header p {
+  font-size:35px;
+  font-family: Arial, sans-serif;
+  color:white;
+}
+header h1 {
+  font-size:100px;
+  font-family: Arial, sans-serif;
+  color:white;
+}
+
+.header__text{
+  padding-top:15%;
+  text-align: center;
+
+}
+.construction{
+  margin-top:50px;
+}
+.intro {
+  padding-bottom: 30px;
+}
+.contact_btn {
+  font-weight: bold;
+  text-decoration: none;
+  padding-top:30px;
+  padding-bottom:30px;
+  padding-left:80px;
+  padding-right:80px;
+  background: #ff3258;
+  color: white;
+}
+.contact_btn:hover{
+  background: rgb(59, 179, 201);
+  color:white;
+  transition: all 0.3s
+}
+.tech_per {
+  height: 500px;
+  background-size:cover;
+}
+.col-sm {
+  padding-bottom: 50px;
+}
